@@ -42,6 +42,7 @@ Destaques:
 **🔎 Visualize online:**  
 
 - **Link:** https://app.powerbi.com/view?r=eyJrIjoiMDY3MmJjMWUtMzAwNy00NDM2LWIxNTQtZGEzZGJkZDhhYjViIiwidCI6IjI2YmYyOTYxLWM4NGQtNDg2Zi1hYWJiLTQxZGQwMzkwYTRiOCJ9
+- **Link do banco de dados:** https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 <img width="1115" height="623" alt="Image" src="https://github.com/user-attachments/assets/f1749029-ee41-44e3-87b3-d0b9cd7fd073" />
 

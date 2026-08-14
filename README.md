@@ -73,7 +73,6 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 **Lucas Pimenta**  
 Analista de Dados | Entusiasta em Business Intelligence e Ciência de Dados  
 
-📧 **E-mail:** [lucaspimenta1805@gmail.com](mailto:lucaspimenta1805@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto/)
 
 ---
